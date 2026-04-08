@@ -1,1 +1,1 @@
-# BJTU-Weihai-Library-Management-System
+# BJTU-Library-Management-System
